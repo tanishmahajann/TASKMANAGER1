@@ -1,4 +1,4 @@
-# Taskmanager
+\## Documentation 
 
-## Feature
-- Task management
+TaskManager is a command-line application for managing tasks.
+

@@ -1,6 +1,4 @@
-\## Documentaton
+\## Documentation
 
 TaskManager is a command-line application for managing tasks.
-
-
 
